@@ -23,4 +23,4 @@ Object Detection and Recognition in Complex Environmental Conditions
 
 ### Blog
 - [图像质量评价和视频质量评价(IQA/VQA)](https://www.cnblogs.com/buyizhiyou/p/12090605.html)
-- [视频/图像质量评价综述](https://zhuanlan.zhihu.com/p/55101558)
+- [视频/图像质量评价综述] (https://zhuanlan.zhihu.com/p/55101558)

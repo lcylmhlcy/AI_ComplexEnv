@@ -12,16 +12,31 @@ Object Detection and Recognition in Complex Environmental Conditions
 ### Vison model training on enhanced degraded image
 - [CVPR2016] [Studying Very Low Resolution Recognition Using Deep Networks](https://arxiv.org/abs/1601.04153)
 - [WACV2016] [Is image super-resolution helpful for other vision tasks?](https://arxiv.org/abs/1509.07009)
+- [ICCV2017] [Enhancenet: Single image super-resolution through automated texture synthesis](https://arxiv.org/abs/1612.07919)
+- [ICIP2019] [Quality-adaptive deep learning for pedestrian detection](https://engineering.purdue.edu/~dgueraco/content/pedestrian-two-stages.pdf)
 - [CVPR2018] [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/abs/1711.07064) [[Code](https://github.com/KupynOrest/DeblurGAN)]
+- [WACV2018] [UG^2: A video benchmark for assessing the impact of image restoration and enhancement on automatic visual recognition](https://arxiv.org/abs/1710.02909) [[Code](https://goo.gl/AjA6En)]
+- [ECCV2018] [The unreasonable effectiveness of texture transfer for single image super-resolution](https://link.springer.com/chapter/10.1007/978-3-030-11021-5_6)
+- [2018] [Task-Driven Super Resolution: Object Detection in Low-resolution Images](https://arxiv.org/abs/1803.11316)
 - [CVPR2019] [Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558) [[Code](https://github.com/lsy17096535/Single-Image-Deraining)]
-- [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482) [[UG2 Challenge](http://cvpr2021.ug2challenge.org/)]
+
+
 
 ### One model (enhancement + Vision)
+- [DICTA2017] [Enhancing the performance of convolutional neural networks on quality degraded datasets](https://arxiv.org/abs/1710.06805)
+- [ICCV2017] [AOD-Net: All-in-One Dehazing Network](https://ieeexplore.ieee.org/abstract/document/8237773)
 - [CVPR2018] [Classification-driven dynamic image enhancement](https://arxiv.org/abs/1710.07558)
 - [IJCAI2018] [When image denoising meets high-level vision tasks: a deep learning approach](https://arxiv.org/abs/1706.04284) [[Code](https://github.com/Ding-Liu/DeepDenoising)]
+- [ICCV2019] [Dual Directed Capsule Network for Very Low Resolution Image Recognition](https://arxiv.org/abs/1908.10027)
 - [ECCV2020] [URIE: Universal Image Enhancement for Visual Recognition in the Wild](https://arxiv.org/abs/2007.08979) [[Code](https://github.com/taeyoungson/urie)]
 - [2021] [Dirty Pixels: Towards End-to-End Image Processing and Perception](https://arxiv.org/abs/1701.06487)
+- [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482) [[UG2 Challenge](http://cvpr2021.ug2challenge.org/)]
 
+---
+
+- [CVPR2015] [Super-Resolution Person Re-Identification With Semi-Coupled Low-Rank Discriminant Dictionary Learning](https://openaccess.thecvf.com/content_cvpr_2015/html/Jing_Super-Resolution_Person_Re-Identification_2015_CVPR_paper.html)
+- [SIU2016] [Facial image super resolution using sparse representation for improving face recognition in surveillance monitoring](https://ieeexplore.ieee.org/abstract/document/7495771)
+- [AMDO2016] [Convolutional Neural Network Super Resolution for Face Recognition in Surveillance Monitoring](https://link.springer.com/chapter/10.1007/978-3-319-41778-3_18)
 
 
 

@@ -14,7 +14,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [WACV2016] [Is image super-resolution helpful for other vision tasks?](https://arxiv.org/abs/1509.07009)
 - [CVPR2018] [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/abs/1711.07064) [[Code](https://github.com/KupynOrest/DeblurGAN)]
 - [CVPR2019] [Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558) [[Code](https://github.com/lsy17096535/Single-Image-Deraining)]
-- [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482)
+- [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482) [[UG2 Challenge](http://cvpr2021.ug2challenge.org/)]
 
 ### One model (enhancement + Vision)
 - [CVPR2018] [Classification-driven dynamic image enhancement](https://arxiv.org/abs/1710.07558)

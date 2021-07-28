@@ -1,7 +1,28 @@
 # AI_ComplexEnv
 Object Detection and Recognition in Complex Environmental Conditions
 
-## Paper
+## Enhancement + Vison Model
+### Vison model directly training on degraded image
+- [ECCV2018] [Does haze removal help cnn-based image classification?](https://arxiv.org/abs/1810.05716)
+- [CVPR2018] [Attentive generative adversarial network for raindrop removal from a single image](https://arxiv.org/abs/1711.10098)
+- [TIP2018] [Benchmarking single-image dehazing and beyond](https://arxiv.org/abs/1712.04143)
+- [CVIU2019] [Getting to Know Low-light Images with The Exclusively Dark Dataset](https://arxiv.org/abs/1805.11227) [[Code](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)]
+- [ICLR2019] [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261) [[Code](https://github.com/hendrycks/robustness)] [[Superseded](https://arxiv.org/abs/1807.01697)]
+
+### Vison model training on enhanced degraded image
+- [WACV2016] [Is image super-resolution helpful for other vision tasks?](https://arxiv.org/abs/1509.07009)
+- [CVPR2019] [Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558)
+
+### One model (enhancement + Vision)
+- [CVPR2018] [Classification-driven dynamic image enhancement](https://arxiv.org/abs/1710.07558)
+- [IJCAI2018] [When image denoising meets high-level vision tasks: a deep learning approach](https://arxiv.org/abs/1706.04284)
+- [ECCV2020] [URIE: Universal Image Enhancement for Visual Recognition in the Wild](https://arxiv.org/abs/2007.08979)
+- [2021] [Dirty Pixels: Towards End-to-End Image Processing and Perception](https://arxiv.org/abs/1701.06487)
+
+
+
+
+## Image Enhancement
 ### Image/Video Quality Assessment
 - Quality Assessment 领域著名实验室 LIVE(Texas University) [[Website](https://live.ece.utexas.edu/research.php)]
 - [AMM2014] [No-Reference Video Quality Assessment Model for Distortion Caused by Packet Loss in the Real-Time Mobile Video Services](https://www.hindawi.com/journals/am/2014/606493/)

@@ -10,13 +10,16 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [ICLR2019] [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261) [[Code](https://github.com/hendrycks/robustness)] [[Superseded](https://arxiv.org/abs/1807.01697)]
 
 ### Vison model training on enhanced degraded image
+- [CVPR2016] [Studying Very Low Resolution Recognition Using Deep Networks](https://arxiv.org/abs/1601.04153)
 - [WACV2016] [Is image super-resolution helpful for other vision tasks?](https://arxiv.org/abs/1509.07009)
-- [CVPR2019] [Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558)
+- [CVPR2018] [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/abs/1711.07064) [[Code](https://github.com/KupynOrest/DeblurGAN)]
+- [CVPR2019] [Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558) [[Code](https://github.com/lsy17096535/Single-Image-Deraining)]
+- [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482)
 
 ### One model (enhancement + Vision)
 - [CVPR2018] [Classification-driven dynamic image enhancement](https://arxiv.org/abs/1710.07558)
-- [IJCAI2018] [When image denoising meets high-level vision tasks: a deep learning approach](https://arxiv.org/abs/1706.04284)
-- [ECCV2020] [URIE: Universal Image Enhancement for Visual Recognition in the Wild](https://arxiv.org/abs/2007.08979)
+- [IJCAI2018] [When image denoising meets high-level vision tasks: a deep learning approach](https://arxiv.org/abs/1706.04284) [[Code](https://github.com/Ding-Liu/DeepDenoising)]
+- [ECCV2020] [URIE: Universal Image Enhancement for Visual Recognition in the Wild](https://arxiv.org/abs/2007.08979) [[Code](https://github.com/taeyoungson/urie)]
 - [2021] [Dirty Pixels: Towards End-to-End Image Processing and Perception](https://arxiv.org/abs/1701.06487)
 
 

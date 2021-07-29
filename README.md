@@ -18,6 +18,8 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [WACV2018] [UG^2: A video benchmark for assessing the impact of image restoration and enhancement on automatic visual recognition](https://arxiv.org/abs/1710.02909) [[Code](https://goo.gl/AjA6En)]
 - [ECCV2018] [The unreasonable effectiveness of texture transfer for single image super-resolution](https://link.springer.com/chapter/10.1007/978-3-030-11021-5_6)
 - [2018] [Task-Driven Super Resolution: Object Detection in Low-resolution Images](https://arxiv.org/abs/1803.11316)
+- - [MODA2019] [Image Quality and Super Resolution Effects on Object Recognition Using Deep Neural Networks](https://www.researchgate.net/profile/Christoph-Borel/publication/333068978_Image_quality_and_super_resolution_effects_on_object_recognition_using_deep_neural_networks/links/5f10707445851512999e9ba2/Image-quality-and-super-resolution-effects-on-object-recognition-using-deep-neural-networks.pdf)
+- [CVPRW2019] [The effects of super-resolution on object detection performance in satellite imagery](https://arxiv.org/abs/1812.04098)
 - [CVPR2019] [Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558) [[Code](https://github.com/lsy17096535/Single-Image-Deraining)]
 
 
@@ -28,8 +30,6 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [CVPR2018] [Classification-driven dynamic image enhancement](https://arxiv.org/abs/1710.07558)
 - [IJCAI2018] [When image denoising meets high-level vision tasks: a deep learning approach](https://arxiv.org/abs/1706.04284) [[Code](https://github.com/Ding-Liu/DeepDenoising)]
 - [ICCV2019] [Dual Directed Capsule Network for Very Low Resolution Image Recognition](https://arxiv.org/abs/1908.10027)
-- [MODA2019] [Image Quality and Super Resolution Effects on Object Recognition Using Deep Neural Networks](https://www.researchgate.net/profile/Christoph-Borel/publication/333068978_Image_quality_and_super_resolution_effects_on_object_recognition_using_deep_neural_networks/links/5f10707445851512999e9ba2/Image-quality-and-super-resolution-effects-on-object-recognition-using-deep-neural-networks.pdf)
-- [CVPRW2019] [The effects of super-resolution on object detection performance in satellite imagery](https://arxiv.org/abs/1812.04098)
 - [ECCV2020] [URIE: Universal Image Enhancement for Visual Recognition in the Wild](https://arxiv.org/abs/2007.08979) [[Code](https://github.com/taeyoungson/urie)]
 - [2021] [Dirty Pixels: Towards End-to-End Image Processing and Perception](https://arxiv.org/abs/1701.06487)
 - [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482) [[UG2 Challenge](http://cvpr2021.ug2challenge.org/)]

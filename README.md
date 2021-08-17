@@ -4,14 +4,20 @@ Object Detection and Recognition in Complex Environmental Conditions
 ## Enhancement + Vison Model
 ### Important
 - [WACV2018] [UG^2: A video benchmark for assessing the impact of image restoration and enhancement on automatic visual recognition](https://arxiv.org/abs/1710.02909) [[Code](https://goo.gl/AjA6En)]
-- [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482) [[UG2 Challenge](http://cvpr2021.ug2challenge.org/)]
+- [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482)
+  - [UG2 Challenge CVPR2021](http://cvpr2021.ug2challenge.org/)
+    - TRACK 1: OBJECT DETECTION IN POOR VISIBILITY ENVIRONMENTS [[Website](http://cvpr2021.ug2challenge.org/dataset21_t1.html)]
+      - SUB-CHALLENGE 1.1: OBJECT DETECTION IN THE HAZY CONDITION
+      - SUB-CHALLENGE 1.2: FACE DETECTION IN THE LOW-LIGHT CONDITION
 
 
 
 ### Vison model directly training on degraded image
 - [ECCV2018] [Does haze removal help cnn-based image classification?](https://arxiv.org/abs/1810.05716)
 - [CVPR2018] [Attentive generative adversarial network for raindrop removal from a single image](https://arxiv.org/abs/1711.10098)
-- [TIP2018] [Benchmarking single-image dehazing and beyond](https://arxiv.org/abs/1712.04143)
+- [TIP2019] [Benchmarking single-image dehazing and beyond](https://arxiv.org/abs/1712.04143)
+  - [dataset (Standard and Extended)](https://sites.google.com/site/boyilics/website-builder/reside)
+  - Belong to TRACK 1: SUB-CHALLENGE 1.1: OBJECT DETECTION IN THE HAZY CONDITION
 - [CVIU2019] [Getting to Know Low-light Images with The Exclusively Dark Dataset](https://arxiv.org/abs/1805.11227) [[Code](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)]
 - [ICLR2019] [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261) [[Code](https://github.com/hendrycks/robustness)] [[Superseded](https://arxiv.org/abs/1807.01697)]
 
@@ -32,7 +38,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [ECCV2018] [The unreasonable effectiveness of texture transfer for single image super-resolution](https://link.springer.com/chapter/10.1007/978-3-030-11021-5_6)
 - [2018] [Task-Driven Super Resolution: Object Detection in Low-resolution Images](https://arxiv.org/abs/1803.11316)
 - [TPAMI2018] [PsyPhy: A Psychophysics Driven Evaluation Framework for Visual Recognition](https://ieeexplore.ieee.org/abstract/document/8395028)
-- [MODA2019] [Image Quality and Super Resolution Effects on Object Recognition Using Deep Neural Networks](https://www.researchgate.net/profile/Christoph-Borel/publication/333068978_Image_quality_and_super_resolution_effects_on_object_recognition_using_deep_neural_networks/links/5f10707445851512999e9ba2/Image-quality-and-super-resolution-effects-on-object-recognition-using-deep-neural-networks.pdf)
+- [MODA2019] [Image Quality and Super Resolution Effects on Object Recognition Using Deep Neural Networks](https://doi.org/10.1117/12.2518524)
 - [CVPRW2019] [The effects of super-resolution on object detection performance in satellite imagery](https://arxiv.org/abs/1812.04098)
 - [CVPR2019] [Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558) [[Code](https://github.com/lsy17096535/Single-Image-Deraining)]
   - aim at visual enhancement, not improve recognition

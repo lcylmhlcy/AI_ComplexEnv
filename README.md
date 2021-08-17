@@ -48,12 +48,22 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [ICCV2019] [Dual Directed Capsule Network for Very Low Resolution Image Recognition](https://arxiv.org/abs/1908.10027)
 - [ECCV2020] [URIE: Universal Image Enhancement for Visual Recognition in the Wild](https://arxiv.org/abs/2007.08979) [[Code](https://github.com/taeyoungson/urie)]
 
----
 
+
+### Application
+**face recognition (deblurring, super-resolution, hallucination)  
+person re-identification**
+- [ISSPA2005] [Face recognition from super-resolved images](https://ieeexplore.ieee.org/abstract/document/1581026)
+- [ECBTAS2007] [Multi-frame super-resolution for face recognition](https://ieeexplore.ieee.org/abstract/document/4401949/)
+- [CVIU2008] [Improving long range and high magnification face recognition: Database acquisition, evaluation, and enhancement](https://doi.org/10.1016/j.cviu.2007.09.004)
+- [CVPR2009] [Facial deblur inference to improve recognition of blurred faces](https://ieeexplore.ieee.org/abstract/document/5206750)
+- [ICCV2011] [Close the loop: Joint blind image restoration and recognition with sparse representation prior](https://ieeexplore.ieee.org/abstract/document/6126315)
+- [JVCIP2012] [Evaluation of image resolution and super-resolution on face recognition performance](https://doi.org/10.1016/j.jvcir.2011.06.004)
 - [CVPR2015] [Super-Resolution Person Re-Identification With Semi-Coupled Low-Rank Discriminant Dictionary Learning](https://openaccess.thecvf.com/content_cvpr_2015/html/Jing_Super-Resolution_Person_Re-Identification_2015_CVPR_paper.html)
 - [BMVC2015] [Convolutional neural networks for direct text deblurring])(http://www.bmva.org/bmvc/2015/papers/paper006/paper006.pdf)
 - [SIU2016] [Facial image super resolution using sparse representation for improving face recognition in surveillance monitoring](https://ieeexplore.ieee.org/abstract/document/7495771)
 - [AMDO2016] [Convolutional Neural Network Super Resolution for Face Recognition in Surveillance Monitoring](https://link.springer.com/chapter/10.1007/978-3-319-41778-3_18)
 - [ECCV2016] [Learning High-Order Filters for Efficient Blind Deconvolution of Document Photographs](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_45)
 - [ECCV2016] [Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
+- [2016] [Deep joint face hallucination and recognition](https://arxiv.org/abs/1611.08091)
 - [ICIP2017] [Quality-adaptive deep learning for pedestrian detection](https://ieeexplore.ieee.org/abstract/document/8297071)

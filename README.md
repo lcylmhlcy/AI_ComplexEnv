@@ -3,7 +3,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 
 ## Enhancement + Vison Model
 ### Important
-- [WACV2018] [UG^2: A video benchmark for assessing the impact of image restoration and enhancement on automatic visual recognition](https://arxiv.org/abs/1710.02909) [[Code](https://goo.gl/AjA6En)]
+- [WACV2018] [UG^2: A video benchmark for assessing the impact of image restoration and enhancement on automatic visual recognition](https://arxiv.org/abs/1710.02909) [[Dataset](http://cvpr2021.ug2challenge.org/program18/dataset18.html)]
 - [TPAMI2020] [Bridging the Gap Between Computational Photography and Visual Recognition](https://arxiv.org/abs/1901.09482)
   - [UG2 Challenge CVPR2021](http://cvpr2021.ug2challenge.org/)
     - TRACK 1: OBJECT DETECTION IN POOR VISIBILITY ENVIRONMENTS [[Website](http://cvpr2021.ug2challenge.org/dataset21_t1.html)]

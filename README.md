@@ -36,6 +36,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [ICIP2019] Quality-adaptive deep learning for pedestrian detection [[paper](https://engineering.purdue.edu/~dgueraco/content/pedestrian-two-stages.pdf)]
 - [CVPR2018] DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks [[paper](https://arxiv.org/abs/1711.07064)] [[Code](https://github.com/KupynOrest/DeblurGAN)]
 - [ECCV2018] The unreasonable effectiveness of texture transfer for single image super-resolution [[paper](https://link.springer.com/chapter/10.1007/978-3-030-11021-5_6)]
+- [ECCV2018] Wilddash - creating hazard-aware benchmarks [[paper](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_25)]
 - [2018] Task-Driven Super Resolution: Object Detection in Low-resolution Images [[paper](https://arxiv.org/abs/1803.11316)]
 - [TPAMI2018] PsyPhy: A Psychophysics Driven Evaluation Framework for Visual Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8395028)]
 - [MODA2019] Image Quality and Super Resolution Effects on Object Recognition Using Deep Neural Networks [[paper](https://doi.org/10.1117/12.2518524)]

@@ -58,7 +58,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 
 ### One model (enhancement + Vision)
 - [CVPR2016] Studying Very Low Resolution Recognition Using Deep Networks [[paper](https://arxiv.org/abs/1601.04153)]
-- [DICTA2017] Enhancing the performance of convolutional neural networks on quality degraded datasets [[paper](https://arxiv.org/abs/1808.01265)]
+- [DICTA2017] Enhancing the performance of convolutional neural networks on quality degraded datasets [[paper](https://arxiv.org/abs/1710.06805)]
 - [ICCV2017] AOD-Net: All-in-One Dehazing Network [[paper](https://ieeexplore.ieee.org/abstract/document/8237773)]
 - [CVPR2018] Classification-driven dynamic image enhancement [[paper](https://arxiv.org/abs/1710.07558)]
 - [IJCAI2018] When image denoising meets high-level vision tasks: a deep learning approach [[paper](https://arxiv.org/abs/1706.04284)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]

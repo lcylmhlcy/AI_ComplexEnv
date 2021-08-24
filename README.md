@@ -15,6 +15,8 @@ Object Detection and Recognition in Complex Environmental Conditions
 ### Vison model directly training on degraded image
 - [ICCV2011] Blurred target tracking by Blur-driven Tracker [[paper](https://ieeexplore.ieee.org/abstract/document/6126357)]
 - [CVPR2016] Studying Very Low Resolution Recognition Using Deep Networks [[paper](https://arxiv.org/abs/1601.04153)]
+- [ICIP2016] Fine-to-coarse Knowledge Transfer For Low-Res Image Classification [[paper](https://arxiv.org/abs/1605.06695)]
+- [PNAS2016] Atoms of recognition in human and computer vision [[paper](http://klab.tch.harvard.edu/academia/classes/Neuro230/FinalExam/gk7410.pdf)]
 - [ICCCN2017] A Study and Comparison of Human and Deep Learning Recognition Performance Under Visual Distortions [[paper](https://arxiv.org/abs/1705.02498)]
 - [2017] Examining the Impact of Blur on Recognition by Convolutional Networks [[paper](https://arxiv.org/abs/1611.05760)]
 - [ECCV2018] Does haze removal help cnn-based image classification? [[paper](https://arxiv.org/abs/1810.05716)]
@@ -85,6 +87,7 @@ person re-identification**
 - [ECCV2016] Learning High-Order Filters for Efficient Blind Deconvolution of Document Photographs [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_45)]
 - [ECCV2016] Colorful Image Colorization [[paper](https://arxiv.org/abs/1603.08511)]
 - [2016] Deep joint face hallucination and recognition [[paper](https://arxiv.org/abs/1611.08091)]
+- [BIOSIG2016]  How image degradations affect deep cnn-based face recognition? [[paper](https://arxiv.org/abs/1608.05246)]
 - [ICIP2017] Quality-adaptive deep learning for pedestrian detection [[paper](https://ieeexplore.ieee.org/abstract/document/8297071)]
 - [ICCV2017] VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition [[paper](https://arxiv.org/abs/1710.06288)]
 - [ICCV2019] Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach [[paper](https://arxiv.org/abs/1908.03856)]

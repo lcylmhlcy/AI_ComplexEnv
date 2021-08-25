@@ -57,7 +57,9 @@ Object Detection and Recognition in Complex Environmental Conditions
 
 
 ### One model (enhancement + Vision)
+- [NIPS2013] Adaptive multi-column deep neural networks with application to robust image denoising [[paper](https://proceedings.neurips.cc/paper/2013/file/e49b8b4053df9505e1f48c3a701c0682-Paper.pdf)]
 - [CVPR2016] Studying Very Low Resolution Recognition Using Deep Networks [[paper](https://arxiv.org/abs/1601.04153)]
+- [ICIP2016] Joint visual denoising and classification using deep learning [[paper](https://arxiv.org/abs/1612.01075)]
 - [DICTA2017] Enhancing the performance of convolutional neural networks on quality degraded datasets [[paper](https://arxiv.org/abs/1710.06805)]
 - [ICCV2017] AOD-Net: All-in-One Dehazing Network [[paper](https://ieeexplore.ieee.org/abstract/document/8237773)]
 - [CVPR2018] Classification-driven dynamic image enhancement [[paper](https://arxiv.org/abs/1710.07558)]

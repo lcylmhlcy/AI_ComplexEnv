@@ -70,7 +70,9 @@ Object Detection and Recognition in Complex Environmental Conditions
 
 ### Application
 **face recognition (deblurring, super-resolution, hallucination)  
-person re-identification**
+person re-identification  
+Iris recognition 虹膜识别  
+fingerprint recognition**
 - [ISSPA2005] Face recognition from super-resolved images [[paper](https://ieeexplore.ieee.org/abstract/document/1581026)]
 - [ECBTAS2007] Multi-frame super-resolution for face recognition [[paper](https://ieeexplore.ieee.org/abstract/document/4401949/)]
 - [ICB2007] Super-Resolved Faces for Improved Face Recognition from Surveillance Video [[paper](https://link.springer.com/chapter/10.1007/978-3-540-74549-5_1)]

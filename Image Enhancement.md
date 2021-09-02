@@ -14,8 +14,10 @@
 
 ### Hybrid-distorted
 - [CVPR2018] Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning [[paper](https://arxiv.org/abs/1804.03312)] [[code](https://github.com/yuke93/RL-Restore)]
+  - DIV2K dataset of hybrid distortions
 - [CVPR2019] Attention-based Adaptive Selection of Operations for Image Restoration in the Presence of Unknown Combined Distortions [[paper](https://arxiv.org/abs/1812.00733)]
 - [ECCV2020] Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration [[paper](https://arxiv.org/pdf/2007.11430.pdf)]
+- [PRL2021] Disentangling Image Distortions in Deep Feature Space [[paper](https://arxiv.org/abs/2002.11409)]
 
 
 ## Quality Enhancement 质量增强

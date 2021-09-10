@@ -1,16 +1,7 @@
-## Image/Video Quality Assessment
-- Quality Assessment 领域著名实验室 LIVE(Texas University) [[Website](https://live.ece.utexas.edu/research.php)]
-- [AMM2014] No-Reference Video Quality Assessment Model for Distortion Caused by Packet Loss in the Real-Time Mobile Video Services [[paper](https://www.hindawi.com/journals/am/2014/606493/)]
-- [QoMEX2014] A perceptually motivated no-reference video quality assessment algorithm for packet loss artifacts [[paper](https://ieeexplore.ieee.org/document/6982296)]
-- [2017CSPA] Video quality assessment: A review of full-referenced, reduced-referenced and no-referenced methods [[paper](https://ieeexplore.ieee.org/document/8064957)]
-- [MM2019] Quality Assessment of In-the-Wild Videos [[paper](https://arxiv.org/abs/1908.00375) [[Code](https://github.com/lidq92/VSFA)]]
-  - 无参考视频质量评价神经网络算法
-- VMAF(Netflix) [[Github](https://github.com/Netflix/vmaf)] [[Wiki](https://en.wikipedia.org/wiki/Video_Multimethod_Assessment_Fusion)]
-
-
 ## Restoration 图像修复
+- [IJCV2020] Gated Fusion Network for Degraded Image Super Resolution [[paper](https://arxiv.org/abs/2003.00893)]
 - [CVPR2020] Learning Invariant Representation for Unsupervised Image Restoration [[paper](https://arxiv.org/abs/2003.12769)]
-
+- [TPAMI2021] Path-restore: Learning network path selection for image restoration [[paper](https://arxiv.org/abs/1904.10343)] [[code](https://github.com/yuke93/Path-Restore)]
 
 ### Hybrid-distorted
 - [CVPR2018] Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning [[paper](https://arxiv.org/abs/1804.03312)] [[code](https://github.com/yuke93/RL-Restore)]
@@ -27,3 +18,13 @@
 
 ## Reconstruction 重建
 - [CVPR2020] EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning [[paper](https://arxiv.org/abs/2003.07640)]
+
+
+## Image/Video Quality Assessment
+- Quality Assessment 领域著名实验室 LIVE(Texas University) [[Website](https://live.ece.utexas.edu/research.php)]
+- [AMM2014] No-Reference Video Quality Assessment Model for Distortion Caused by Packet Loss in the Real-Time Mobile Video Services [[paper](https://www.hindawi.com/journals/am/2014/606493/)]
+- [QoMEX2014] A perceptually motivated no-reference video quality assessment algorithm for packet loss artifacts [[paper](https://ieeexplore.ieee.org/document/6982296)]
+- [2017CSPA] Video quality assessment: A review of full-referenced, reduced-referenced and no-referenced methods [[paper](https://ieeexplore.ieee.org/document/8064957)]
+- [MM2019] Quality Assessment of In-the-Wild Videos [[paper](https://arxiv.org/abs/1908.00375) [[Code](https://github.com/lidq92/VSFA)]]
+  - 无参考视频质量评价神经网络算法
+- VMAF(Netflix) [[Github](https://github.com/Netflix/vmaf)] [[Wiki](https://en.wikipedia.org/wiki/Video_Multimethod_Assessment_Fusion)]

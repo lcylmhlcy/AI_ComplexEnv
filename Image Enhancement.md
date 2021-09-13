@@ -12,6 +12,10 @@
 - [PRL2021] Disentangling Image Distortions in Deep Feature Space [[paper](https://arxiv.org/abs/2002.11409)]
 
 
+### Idea
+- [ICLR2017] Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[paper](https://arxiv.org/abs/1701.06538)] **Hinton and Jeff Dean** [**SwitchTransformer**]
+
+
 ## Quality Enhancement 质量增强
 - [CVPR2018] Multi Frame Quality Enhancement for Compressed Video [[paper](https://link.zhihu.com/?target=http%3A//arxiv.org/abs/1803.04680)] [[Code](github.com/ryangBUAA/MFQE.git)]
 

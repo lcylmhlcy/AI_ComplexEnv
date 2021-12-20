@@ -65,6 +65,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [CVPR2018] Classification-driven dynamic image enhancement [[paper](https://arxiv.org/abs/1710.07558)]
 - [IJCAI2018] When image denoising meets high-level vision tasks: a deep learning approach [[paper](https://arxiv.org/abs/1706.04284)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
 - [ECCV2020] URIE: Universal Image Enhancement for Visual Recognition in the Wild [[paper](https://arxiv.org/abs/2007.08979)] [[Code](https://github.com/taeyoungson/urie)]
+- [TIP2020] Connecting Image Denoising and High-Level Vision Tasks via Deep Learning [[paper](https://ieeexplore.ieee.org/abstract/document/8960640)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
 
 
 

@@ -1,0 +1,4 @@
+-[ICRA2016] Understand scene categories by objects: A semantic regularized scene classifier using convolutional neural network [[paper](https://arxiv.org/abs/1509.06470)]
+- [CVPR2017] UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory [[paper](https://arxiv.org/abs/1609.02132)] [[code](http://cvn.ecp.fr/ubernet/)]
+- [IV2018] MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving [[paper](https://arxiv.org/abs/1612.07695)] [[code](https://github.com/MarvinTeichmann/MultiNet)]
+- [CVPR2018] Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics [[paper](https://arxiv.org/abs/1705.07115)]

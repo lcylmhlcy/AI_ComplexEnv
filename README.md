@@ -31,7 +31,6 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [ICCV2019] Dual Directed Capsule Network for Very Low Resolution Image Recognition [[paper](https://arxiv.org/abs/1908.10027)]
 - [ICCV2019] Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation [[paper](https://arxiv.org/abs/1901.05946)]
 - [CVPR'2020] Seeing Through FogWithout Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather [[paper](https://arxiv.org/abs/1902.08913)] [[code](https://github.com/princeton-computational-imaging/SeeingThroughFog)]
-- [TPAMI'2020] DSNet: Joint semantic learning for object detection in inclement weather conditions [[paper](https://ieeexplore.ieee.org/abstract/document/9022905)]
 - [ICIP'2021] Multiscale Domain Adaptive YOLO for Cross-Domain Object Detection [[paper](https://arxiv.org/abs/2106.01483)]
 - [AAAI'2022] Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions [[paper](https://arxiv.org/abs/2112.08088)] [[sup](https://web.comp.polyu.edu.hk/cslzhang/paper/Image_Adaptive_YOLO_%20supp.pdf)] [[code](https://github.com/wenyyu/Image-Adaptive-YOLO)]
 - [ACML'2021] Domain Adaptive YOLO for One-Stage Cross-Domain Detection [[paper](https://arxiv.org/abs/2106.13939)]
@@ -63,14 +62,18 @@ Object Detection and Recognition in Complex Environmental Conditions
 
 ### One model (enhancement + Vision)
 - [NIPS2013] Adaptive multi-column deep neural networks with application to robust image denoising [[paper](https://proceedings.neurips.cc/paper/2013/file/e49b8b4053df9505e1f48c3a701c0682-Paper.pdf)]
+- [TPANMI2015] Adherent raindrop modeling, detection and removal in video [[paper](https://ieeexplore.ieee.org/abstract/document/7299675)]
 - [CVPR2016] Studying Very Low Resolution Recognition Using Deep Networks [[paper](https://arxiv.org/abs/1601.04153)]
 - [ICIP2016] Joint visual denoising and classification using deep learning [[paper](https://arxiv.org/abs/1612.01075)]
 - [DICTA2017] Enhancing the performance of convolutional neural networks on quality degraded datasets [[paper](https://arxiv.org/abs/1710.06805)]
 - [ICCV2017] AOD-Net: All-in-One Dehazing Network [[paper](https://ieeexplore.ieee.org/abstract/document/8237773)]
 - [CVPR2018] Classification-driven dynamic image enhancement [[paper](https://arxiv.org/abs/1710.07558)]
 - [IJCAI2018] When image denoising meets high-level vision tasks: a deep learning approach [[paper](https://arxiv.org/abs/1706.04284)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
+- [AAAI2018] End-to-End United Video Dehazing and Detection [[paper](https://arxiv.org/abs/1709.03919)]
 - [ECCV2020] URIE: Universal Image Enhancement for Visual Recognition in the Wild [[paper](https://arxiv.org/abs/2007.08979)] [[Code](https://github.com/taeyoungson/urie)]
+- [ECCV2020] Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions [[paper](https://arxiv.org/abs/1912.00070)]
 - [TIP2020] Connecting Image Denoising and High-Level Vision Tasks via Deep Learning [[paper](https://ieeexplore.ieee.org/abstract/document/8960640)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
+- [TPAMI'2020] DSNet: Joint semantic learning for object detection in inclement weather conditions [[paper](https://ieeexplore.ieee.org/abstract/document/9022905)]
 
 
 

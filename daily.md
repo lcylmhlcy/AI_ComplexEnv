@@ -1,0 +1,1 @@
+- [2018] Weakly Supervised Local Attention Network for Fine-Grained Visual Classification [[paper](https://arxiv.org/abs/1808.02152)]

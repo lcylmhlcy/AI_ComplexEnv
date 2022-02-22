@@ -1,1 +1,2 @@
 - [2018] Weakly Supervised Local Attention Network for Fine-Grained Visual Classification [[paper](https://arxiv.org/abs/1808.02152)]
+- [CVPR2021] Coordinate Attention for Efficient Mobile Network Design [[paper](ttps://arxiv.org/abs/2103.02907)] [[code](https://github.com/Andrew-Qibin/CoordAttention)]

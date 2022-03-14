@@ -3,3 +3,4 @@
 - [CVPR2022] IDR: Self-Supervised Image Denoising via Iterative Data Refinement [[paper](https://arxiv.org/abs/2111.14358)] [[code](https://github.com/zhangyi-3/IDR)]
 - [CVPR2022] TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions [[paper](https://arxiv.org/abs/2111.14813)]
 - [CVPR2022] Uformer: A General U-shaped Transformer for Image Restoration [[paper](https://arxiv.org/abs/2106.03106)] [[code](https://github.com/ZhendongWang6/Uformer)]
+- [CVPR2021] Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.html)]

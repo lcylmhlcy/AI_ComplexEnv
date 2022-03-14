@@ -54,7 +54,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [TPAMI2018] PsyPhy: A Psychophysics Driven Evaluation Framework for Visual Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8395028)]
 - [MODA2019] Image Quality and Super Resolution Effects on Object Recognition Using Deep Neural Networks [[paper](https://doi.org/10.1117/12.2518524)]
 - [CVPRW2019] The effects of super-resolution on object detection performance in satellite imagery [[paper](https://arxiv.org/abs/1812.04098)]
-- [CVPR2019] Single image deraining: A comprehensive benchmark analysis](https://arxiv.org/abs/1903.08558) [[paper] [[Code](https://github.com/lsy17096535/Single-Image-Deraining)]
+- [CVPR2019] Single image deraining: A comprehensive benchmark analysis [[paper](https://arxiv.org/abs/1903.08558)] [[Code](https://github.com/lsy17096535/Single-Image-Deraining)]
   - aim at visual enhancement, not improve recognition
 - [2021] Dirty Pixels: Towards End-to-End Image Processing and Perception [[paper](https://arxiv.org/abs/1701.06487)]
 

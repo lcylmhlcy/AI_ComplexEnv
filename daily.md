@@ -1,2 +1,5 @@
 - [2018] Weakly Supervised Local Attention Network for Fine-Grained Visual Classification [[paper](https://arxiv.org/abs/1808.02152)]
 - [CVPR2021] Coordinate Attention for Efficient Mobile Network Design [[paper](https://arxiv.org/abs/2103.02907)] [[code](https://github.com/Andrew-Qibin/CoordAttention)]
+- [CVPR2022] IDR: Self-Supervised Image Denoising via Iterative Data Refinement [[paper](https://arxiv.org/abs/2111.14358)] [[code](https://github.com/zhangyi-3/IDR)]
+- [CVPR2022] TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions [[paper](https://arxiv.org/abs/2111.14813)]
+- [CVPR2022] Uformer: A General U-shaped Transformer for Image Restoration [[paper](https://arxiv.org/abs/2106.03106)] [[code](https://github.com/ZhendongWang6/Uformer)]

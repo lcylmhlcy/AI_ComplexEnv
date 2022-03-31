@@ -27,7 +27,7 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [2017] Examining the Impact of Blur on Recognition by Convolutional Networks [[paper](https://arxiv.org/abs/1611.05760)]
 - [ECCV2018] Does haze removal help cnn-based image classification? [[paper](https://arxiv.org/abs/1810.05716)]
 - [CVPR2018] Attentive generative adversarial network for raindrop removal from a single image [[paper](https://arxiv.org/abs/1711.10098)]
-- [CVPR2018] Domain Adaptive Faster R-CNN for Object Detection in the Wild [[paper](https://arxiv.org/abs/1803.03243)]
+- [CVPR2018] Domain Adaptive Faster R-CNN for Object Detection in the Wild [[paper](https://arxiv.org/abs/1803.03243)] 
 - [ECCV2018] Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding [[paper](https://arxiv.org/abs/1803.03243)]
 - [TIP2019] Benchmarking single-image dehazing and beyond [[paper](https://arxiv.org/abs/1712.04143)]
   - dataset (Standard and Extended)  [[google](https://sites.google.com/site/boyilics/website-builder/reside)]

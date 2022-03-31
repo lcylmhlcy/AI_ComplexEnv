@@ -1,0 +1,2 @@
+- DeepLab_v1论文中，CNN适合于Hight-Level Vision Task（如图像分类），不太适合于Low-Level Vision Task（如图像分割、姿态估计）。While this invariance is clearly desirable for high-level vision tasks, it can hamper low-level tasks, such as pose estimation and semantic segmentation - where we want precise localization, rather than abstraction of spatial details. High-Level Task指的是对细节信息不敏感、抽象度比较高的任务。Low-Level Task指的是对细节敏感、抽象度比较低的任务。
+- https://perswww.kuleuven.be/~u0084530/doc/visionintro.html

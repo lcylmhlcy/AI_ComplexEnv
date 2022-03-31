@@ -9,6 +9,12 @@ Object Detection and Recognition in Complex Environmental Conditions
     - TRACK 1: OBJECT DETECTION IN POOR VISIBILITY ENVIRONMENTS [[Website](http://cvpr2021.ug2challenge.org/dataset21_t1.html)]
       - SUB-CHALLENGE 1.1: OBJECT DETECTION IN THE HAZY CONDITION
       - SUB-CHALLENGE 1.2: FACE DETECTION IN THE LOW-LIGHT CONDITION
+- [ICCV2017] AOD-Net: All-in-One Dehazing Network [[paper](https://ieeexplore.ieee.org/abstract/document/8237773)]
+- [ECCV2018] Does haze removal help cnn-based image classification? [[paper](https://arxiv.org/abs/1810.05716)]
+- [IJCAI2018] When image denoising meets high-level vision tasks: a deep learning approach [[paper](https://arxiv.org/abs/1706.04284)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
+- [TIP2020] Connecting Image Denoising and High-Level Vision Tasks via Deep Learning [[paper](https://ieeexplore.ieee.org/abstract/document/8960640)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
+- [TPAMI'2020] DSNet: Joint semantic learning for object detection in inclement weather conditions [[paper](https://ieeexplore.ieee.org/abstract/document/9022905)]
+- [AAAI'2022] Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions [[paper](https://arxiv.org/abs/2112.08088)] [[sup](https://web.comp.polyu.edu.hk/cslzhang/paper/Image_Adaptive_YOLO_%20supp.pdf)] [[code](https://github.com/wenyyu/Image-Adaptive-YOLO)]
 
 
 
@@ -69,10 +75,12 @@ Object Detection and Recognition in Complex Environmental Conditions
 - [CVPR2018] Classification-driven dynamic image enhancement [[paper](https://arxiv.org/abs/1710.07558)]
 - [IJCAI2018] When image denoising meets high-level vision tasks: a deep learning approach [[paper](https://arxiv.org/abs/1706.04284)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
 - [AAAI2018] End-to-End United Video Dehazing and Detection [[paper](https://arxiv.org/abs/1709.03919)]
+- [ECCV2018] SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.html)]
 - [ECCV2020] URIE: Universal Image Enhancement for Visual Recognition in the Wild [[paper](https://arxiv.org/abs/2007.08979)] [[Code](https://github.com/taeyoungson/urie)]
 - [ECCV2020] Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions [[paper](https://arxiv.org/abs/1912.00070)]
 - [TIP2020] Connecting Image Denoising and High-Level Vision Tasks via Deep Learning [[paper](https://ieeexplore.ieee.org/abstract/document/8960640)] [[Code](https://github.com/Ding-Liu/DeepDenoising)]
 - [TPAMI'2020] DSNet: Joint semantic learning for object detection in inclement weather conditions [[paper](https://ieeexplore.ieee.org/abstract/document/9022905)]
+- [ICONIP2021] Task-Driven Super Resolution: Object Detection in Low-Resolution Images [[paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_45)]
 - [AAAI'2022] Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions [[paper](https://arxiv.org/abs/2112.08088)] [[sup](https://web.comp.polyu.edu.hk/cslzhang/paper/Image_Adaptive_YOLO_%20supp.pdf)] [[code](https://github.com/wenyyu/Image-Adaptive-YOLO)]
 
 

@@ -6,3 +6,5 @@
 - [CVPR2021] Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.html)]
 - [2021] Unsupervised water scene dehazing network using multiple scattering model [[paper](https://doi.org/10.1371/journal.pone.0253214)]
 - [TIP2019] Unsupervised Single Image Dehazing Using Dark Channel Prior Loss [[paper](https://ieeexplore.ieee.org/document/8897130)] [[code](https://github.com/AlonaGolts/Deep_Energy)]
+- [IJCV2021] You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network [[paper](https://link.springer.com/article/10.1007/s11263-021-01431-5)]
+- [ICIP2020] Unsupervised Conditional Disentangle Network For Image Dehazing [[paper](https://ieeexplore.ieee.org/abstract/document/9190833)]

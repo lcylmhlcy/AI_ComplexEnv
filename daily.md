@@ -8,3 +8,4 @@
 - [TIP2019] Unsupervised Single Image Dehazing Using Dark Channel Prior Loss [[paper](https://ieeexplore.ieee.org/document/8897130)] [[code](https://github.com/AlonaGolts/Deep_Energy)]
 - [IJCV2021] You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network [[paper](https://link.springer.com/article/10.1007/s11263-021-01431-5)]
 - [ICIP2020] Unsupervised Conditional Disentangle Network For Image Dehazing [[paper](https://ieeexplore.ieee.org/abstract/document/9190833)]
+- [WACV2021] Attentional Feature Fusion [[paper](https://arxiv.org/abs/2009.14082)] [[code](https://github.com/YimianDai/open-aff)]

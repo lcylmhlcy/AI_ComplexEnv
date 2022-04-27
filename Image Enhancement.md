@@ -8,7 +8,7 @@
   - DIV2K dataset of hybrid distortions
 - [CVPR2019] [**OWAN**] Attention-based Adaptive Selection of Operations for Image Restoration in the Presence of Unknown Combined Distortions [[paper](https://arxiv.org/abs/1812.00733)]
 - [ECCV2020] Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration [[paper](https://arxiv.org/pdf/2007.11430.pdf)]
-- [ACCV2020] Restoring Spatially-Heterogeneous Distortions using Mixture of Experts Network [[paper](https://arxiv.org/abs/2009.14563)]
+- [ACCV2020] Restoring Spatially-Heterogeneous Distortions using Mixture of Experts Network [[paper](https://arxiv.org/abs/2009.14563)] [[code](https://github.com/SijinKim/mepsnet)]
 - [2021] Restoring Images with Unknown Degradation Factors by Recurrent Use of a Multi-branch Network [[paper](https://arxiv.org/abs/1907.04508)]
 - [PRL2021] Disentangling Image Distortions in Deep Feature Space [[paper](https://arxiv.org/abs/2002.11409)]
 - [TPAMI2021] Path-Restore: Learning Network Path Selection for Image Restoration [[paper](https://arxiv.org/abs/1904.10343)] [[project](https://www.mmlab-ntu.com/project/pathrestore/)]
@@ -19,7 +19,7 @@
 - [CVPR2016] Cross-stitch Networks for Multi-task Learning [[paper](https://arxiv.org/abs/1604.03539)]
 - [ICLR2017] Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[paper](https://arxiv.org/abs/1701.06538)] **Hinton and Jeff Dean** [**SwitchTransformer**] [[code](https://nn.labml.ai/transformers/switch/index.html)]
 - [ICLR2018] Routing Networks: Adaptive Selection of Non-Linear Functions for Multi-Task Learning [[paper](https://arxiv.org/abs/1711.01239)]
-- [ICLR2019] Learning implicitly recurrent CNNs through parameter sharing [[paper](https://arxiv.org/abs/1902.09701)]
+- [ICLR2019] Learning implicitly recurrent CNNs through parameter sharing [[paper](https://arxiv.org/abs/1902.09701)] [[code](https://github.com/lolemacs/soft-sharing)]
 - [ICCV2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper](https://arxiv.org/abs/2103.14030)]
 
 

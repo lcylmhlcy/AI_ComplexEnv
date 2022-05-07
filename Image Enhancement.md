@@ -21,6 +21,7 @@
 - [ICLR2018] Routing Networks: Adaptive Selection of Non-Linear Functions for Multi-Task Learning [[paper](https://arxiv.org/abs/1711.01239)]
 - [ICLR2019] Learning implicitly recurrent CNNs through parameter sharing [[paper](https://arxiv.org/abs/1902.09701)] [[code](https://github.com/lolemacs/soft-sharing)]
 - [ICCV2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper](https://arxiv.org/abs/2103.14030)]
+- [NIPS2021] Benchmarking the Robustness of Spatial-Temporal Models Against Corruptions [[paper](https://arxiv.org/abs/2110.06513)] [[code](https://github.com/Newbeeyoung/Video-Corruption-Robustness)]
 
 
 ## Quality Enhancement 质量增强

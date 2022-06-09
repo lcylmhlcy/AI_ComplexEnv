@@ -15,12 +15,7 @@
 
 
 ### Idea
-- [NC1991] Adaptive Mixtures of Local Experts [[paper](https://ieeexplore.ieee.org/abstract/document/6797059)]
-- [CVPR2016] Cross-stitch Networks for Multi-task Learning [[paper](https://arxiv.org/abs/1604.03539)]
-- [ICLR2017] Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[paper](https://arxiv.org/abs/1701.06538)] **Hinton and Jeff Dean** [**SwitchTransformer**] [[code](https://nn.labml.ai/transformers/switch/index.html)]
-- [ICLR2018] Routing Networks: Adaptive Selection of Non-Linear Functions for Multi-Task Learning [[paper](https://arxiv.org/abs/1711.01239)]
 - [ICLR2019] Learning implicitly recurrent CNNs through parameter sharing [[paper](https://arxiv.org/abs/1902.09701)] [[code](https://github.com/lolemacs/soft-sharing)]
-- [ICCV2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper](https://arxiv.org/abs/2103.14030)]
 - [NIPS2021] Benchmarking the Robustness of Spatial-Temporal Models Against Corruptions [[paper](https://arxiv.org/abs/2110.06513)] [[code](https://github.com/Newbeeyoung/Video-Corruption-Robustness)]
 
 
